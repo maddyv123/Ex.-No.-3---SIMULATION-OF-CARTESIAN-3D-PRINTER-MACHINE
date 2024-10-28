@@ -59,9 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![image](https://github.com/Oviya24032K6/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139999/12aa3626-2885-460e-be91-8512578672a9)
+![image](https://github.com/Oviya24032K6/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139999/87f66957-e3e4-4672-b2c1-b0aec3f03c69)
+![image](https://github.com/Oviya24032K6/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139999/fa9d6c28-6dd3-4824-bfc6-e469c3a85bfe)
+![image](https://github.com/Oviya24032K6/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139999/bb535bec-a0c6-41fc-bc95-0014f2079f46)
 
-### Name: 
-### Register Number:
+
+### Name: MATHAVAN V
+### Register Number: 212223110026
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
